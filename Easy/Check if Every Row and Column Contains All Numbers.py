@@ -1,4 +1,10 @@
 
+""" Que ---> 2133
+https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
+"""
+
+# Solution
+
 class Solution:
     def checkValid(self, matrix: List[List[int]]) -> bool:
         # rows
