@@ -1,4 +1,6 @@
-# Que ---> https://leetcode.com/problems/valid-sudoku/description/
+""" Que ---> 
+https://leetcode.com/problems/valid-sudoku/description/
+"""
 
 # Solution
 
