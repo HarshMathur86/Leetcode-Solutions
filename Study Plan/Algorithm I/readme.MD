@@ -1,1 +1,1 @@
- ## Prefixed number is the day of the stud plan
+ ### Prefixed number is the day of the study plan
